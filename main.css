@@ -1,0 +1,50 @@
+.hovers:hover{
+    height: 50px;
+    width: 100;
+    background-color: #555;
+    border-radius: 50%;
+}
+.hovers:hover
+{
+    background-color: red;
+
+}
+.hoverss:hover
+{
+    height: 50px;
+    width: 100;
+    background-color: #555;
+    border-radius: 50%;
+
+}
+.hoverss:hover{
+    background-color: red;
+}
+.banner
+{
+  
+
+    background-color: white; 
+    color: black;
+    margin-left: 150px;
+    margin-right:200px;
+    border: 2px solid black ;
+    font-size: 20px;
+}
+.view {
+    color: red;
+    margin-left: 5px;
+}
+.pad
+{
+    padding-top: 20px ;
+}
+.box
+{
+    margin-left:20px;
+   
+}
+.view2
+{
+    color:black;
+}
